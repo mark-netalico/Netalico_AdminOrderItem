@@ -1,0 +1,16 @@
+{
+    "name":"netalico/netalico_adminorderItem",
+    "type":"magento-module",
+    "license":"OSL-3.0",
+    "homepage":"https://github.com/netalico/Netalico_AdminOrderItem",
+    "description":"Netalico_AdminOrderItem is a Magento module that allows you to prevent your administrators from placing orders for out of stock items.",
+    "authors":[
+        {
+            "name":"Mark Lewis",
+            "email":"mark@netalico.com"
+        }
+    ],
+    "require":{
+        "magento-hackathon/magento-composer-installer":"*"
+    }
+}
